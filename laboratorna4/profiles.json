@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "name": "Bohdan",
+      "role": "Admin"
+    },
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Reader"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Reader"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "role": "Librarian"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "role": "Reader"
+    },
+    {
+      "id": 5,
+      "name": "William Johnson",
+      "role": "Editor"
+    }
+  ]
+}
